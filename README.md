@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LukasTheDark372
+- 👀 I’m interested in making cool little things.
+- 🌱 I’m currently learning c# and everything that goes along with it (.NET, WinForms, etc.)
+- 💞️ I’m looking to collaborate on anything, I could use the practice.
+- 📫 How to reach me: lukasthedarkvods@gmail.com
